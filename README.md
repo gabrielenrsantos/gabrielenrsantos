@@ -1,9 +1,9 @@
 <h1>Hi, I'm Gabriel 👋</h1>
 
 <div>
-  <a href="https://github.com/gabriel-enrique7">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=gabriel-enrique7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-enrique7&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/gabrielenrsantos">
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=gabrielenrsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielenrsantos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <h2>Languages and Contact:</h2>
