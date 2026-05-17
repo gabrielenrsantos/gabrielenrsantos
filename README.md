@@ -2,8 +2,6 @@
 
 <div>
   <a href="https://github.com/gabrielenrsantos">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=gabrielenrsantos&show_icons=true&theme=tokyonight"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielenrsantos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <h2>Languages and Contact:</h2>
